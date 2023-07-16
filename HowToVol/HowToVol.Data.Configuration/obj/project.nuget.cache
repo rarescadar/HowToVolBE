@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "leXPOpyLYW8rsu8CV1x1ZVqddHEZZOuksjDrgGqNJn5p2/rh6BDMRXnQ5f8vgYpHNwtR8u7YZ7VHBn8J2acBQQ==",
+  "dgSpecHash": "nRB2cs43fsOi2ArAn04wxt2ATvgyv1wVavlKDi/7Y+4LjkkoI7LKHqgHmAKpHo3SBBEa3Xz1oMtQmpUXmj6Crw==",
   "success": true,
-  "projectFilePath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVol\\HowToVol.Data.Configuration\\HowToVol.Data.Configuration.csproj",
+  "projectFilePath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVolBE\\HowToVol\\HowToVol.Data.Configuration\\HowToVol.Data.Configuration.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rares\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Rares\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

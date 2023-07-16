@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x7T5+viB/+anClgANGAVUVwU/agacnidyisyeEH56RqE1IoUW9OFvDApPOkOFT3lMHzHVFgIf3tNokcnRgMkbQ==",
+  "dgSpecHash": "nU0UcM8I8RDkO9gyqVlvHzF/Q7URDq695ptHZS12+EaeqZe/kT1/9gaj9NKpFOlyjHVfAtDYCvK3yidczOmN/A==",
   "success": true,
-  "projectFilePath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVol\\HowToVol.Bussiness.Services\\HowToVol.Bussiness.Services.csproj",
+  "projectFilePath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVolBE\\HowToVol\\HowToVol.Bussiness.Services\\HowToVol.Bussiness.Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
