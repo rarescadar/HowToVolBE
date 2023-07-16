@@ -1,0 +1,12 @@
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Bussiness.Services\bin\Debug\net6.0\HowToVol.Bussiness.Services.deps.json
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Bussiness.Services\bin\Debug\net6.0\HowToVol.Bussiness.Services.dll
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Bussiness.Services\bin\Debug\net6.0\HowToVol.Bussiness.Services.pdb
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Bussiness.Services\obj\Debug\net6.0\HowToVol.Bussiness.Services.csproj.AssemblyReference.cache
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Bussiness.Services\obj\Debug\net6.0\HowToVol.Bussiness.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Bussiness.Services\obj\Debug\net6.0\HowToVol.Bussiness.Services.AssemblyInfoInputs.cache
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Bussiness.Services\obj\Debug\net6.0\HowToVol.Bussiness.Services.AssemblyInfo.cs
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Bussiness.Services\obj\Debug\net6.0\HowToVol.Bussiness.Services.csproj.CoreCompileInputs.cache
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Bussiness.Services\obj\Debug\net6.0\HowToVol.Bussiness.Services.dll
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Bussiness.Services\obj\Debug\net6.0\refint\HowToVol.Bussiness.Services.dll
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Bussiness.Services\obj\Debug\net6.0\HowToVol.Bussiness.Services.pdb
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Bussiness.Services\obj\Debug\net6.0\ref\HowToVol.Bussiness.Services.dll

@@ -1,0 +1,17 @@
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Configuration\bin\Debug\net6.0\HowToVol.Data.Configuration.deps.json
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Configuration\bin\Debug\net6.0\HowToVol.Data.Configuration.dll
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Configuration\bin\Debug\net6.0\HowToVol.Data.Configuration.pdb
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Configuration\bin\Debug\net6.0\HowToVol.Data.Entities.dll
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Configuration\bin\Debug\net6.0\HowToVol.Data.Entities.pdb
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Configuration\obj\Debug\net6.0\HowToVol.Data.Configuration.csproj.AssemblyReference.cache
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Configuration\obj\Debug\net6.0\HowToVol.Data.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Configuration\obj\Debug\net6.0\HowToVol.Data.Configuration.AssemblyInfoInputs.cache
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Configuration\obj\Debug\net6.0\HowToVol.Data.Configuration.AssemblyInfo.cs
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Configuration\obj\Debug\net6.0\HowToVol.Data.Configuration.csproj.CoreCompileInputs.cache
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Configuration\obj\Debug\net6.0\HowToVol.Data.Configuration.csproj.CopyComplete
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Configuration\obj\Debug\net6.0\HowToVol.Data.Configuration.dll
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Configuration\obj\Debug\net6.0\refint\HowToVol.Data.Configuration.dll
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Configuration\obj\Debug\net6.0\HowToVol.Data.Configuration.pdb
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Configuration\obj\Debug\net6.0\ref\HowToVol.Data.Configuration.dll
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Configuration\bin\Debug\net6.0\HowToVol.Data.Configuration.runtimeconfig.json
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Configuration\obj\Debug\net6.0\HowToVol.Data.Configuration.genruntimeconfig.cache

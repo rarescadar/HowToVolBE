@@ -1,0 +1,14 @@
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Entities\bin\Debug\net6.0\HowToVol.Data.Entities.deps.json
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Entities\bin\Debug\net6.0\HowToVol.Data.Entities.runtimeconfig.json
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Entities\bin\Debug\net6.0\HowToVol.Data.Entities.dll
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Entities\bin\Debug\net6.0\HowToVol.Data.Entities.pdb
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Entities\obj\Debug\net6.0\HowToVol.Data.Entities.csproj.AssemblyReference.cache
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Entities\obj\Debug\net6.0\HowToVol.Data.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Entities\obj\Debug\net6.0\HowToVol.Data.Entities.AssemblyInfoInputs.cache
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Entities\obj\Debug\net6.0\HowToVol.Data.Entities.AssemblyInfo.cs
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Entities\obj\Debug\net6.0\HowToVol.Data.Entities.csproj.CoreCompileInputs.cache
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Entities\obj\Debug\net6.0\HowToVol.Data.Entities.dll
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Entities\obj\Debug\net6.0\refint\HowToVol.Data.Entities.dll
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Entities\obj\Debug\net6.0\HowToVol.Data.Entities.pdb
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Entities\obj\Debug\net6.0\HowToVol.Data.Entities.genruntimeconfig.cache
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Data.Entities\obj\Debug\net6.0\ref\HowToVol.Data.Entities.dll

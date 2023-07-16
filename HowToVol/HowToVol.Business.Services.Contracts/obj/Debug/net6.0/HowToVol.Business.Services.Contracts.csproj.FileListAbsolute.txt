@@ -1,0 +1,12 @@
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Business.Services.Contracts\bin\Debug\net6.0\HowToVol.Business.Services.Contracts.deps.json
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Business.Services.Contracts\bin\Debug\net6.0\HowToVol.Business.Services.Contracts.dll
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Business.Services.Contracts\bin\Debug\net6.0\HowToVol.Business.Services.Contracts.pdb
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Business.Services.Contracts\obj\Debug\net6.0\HowToVol.Business.Services.Contracts.csproj.AssemblyReference.cache
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Business.Services.Contracts\obj\Debug\net6.0\HowToVol.Business.Services.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Business.Services.Contracts\obj\Debug\net6.0\HowToVol.Business.Services.Contracts.AssemblyInfoInputs.cache
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Business.Services.Contracts\obj\Debug\net6.0\HowToVol.Business.Services.Contracts.AssemblyInfo.cs
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Business.Services.Contracts\obj\Debug\net6.0\HowToVol.Business.Services.Contracts.csproj.CoreCompileInputs.cache
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Business.Services.Contracts\obj\Debug\net6.0\HowToVol.Business.Services.Contracts.dll
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Business.Services.Contracts\obj\Debug\net6.0\refint\HowToVol.Business.Services.Contracts.dll
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Business.Services.Contracts\obj\Debug\net6.0\HowToVol.Business.Services.Contracts.pdb
+D:\Licenta\HowToVolApp\BE\HowToVol\HowToVol.Business.Services.Contracts\obj\Debug\net6.0\ref\HowToVol.Business.Services.Contracts.dll
