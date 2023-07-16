@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Licenta\\HowToVolApp\\BE\\HowToVol\\HowToVol.Bussiness.Services\\HowToVol.Bussiness.Services.csproj": {}
+    "D:\\Licenta\\HowToVolApp\\BE\\HowToVolBE\\HowToVol\\HowToVol.Bussiness.Services\\HowToVol.Bussiness.Services.csproj": {}
   },
   "projects": {
-    "D:\\Licenta\\HowToVolApp\\BE\\HowToVol\\HowToVol.Bussiness.Services\\HowToVol.Bussiness.Services.csproj": {
+    "D:\\Licenta\\HowToVolApp\\BE\\HowToVolBE\\HowToVol\\HowToVol.Bussiness.Services\\HowToVol.Bussiness.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Licenta\\HowToVolApp\\BE\\HowToVol\\HowToVol.Bussiness.Services\\HowToVol.Bussiness.Services.csproj",
+        "projectUniqueName": "D:\\Licenta\\HowToVolApp\\BE\\HowToVolBE\\HowToVol\\HowToVol.Bussiness.Services\\HowToVol.Bussiness.Services.csproj",
         "projectName": "HowToVol.Bussiness.Services",
-        "projectPath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVol\\HowToVol.Bussiness.Services\\HowToVol.Bussiness.Services.csproj",
+        "projectPath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVolBE\\HowToVol\\HowToVol.Bussiness.Services\\HowToVol.Bussiness.Services.csproj",
         "packagesPath": "C:\\Users\\Rares\\.nuget\\packages\\",
-        "outputPath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVol\\HowToVol.Bussiness.Services\\obj\\",
+        "outputPath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVolBE\\HowToVol\\HowToVol.Bussiness.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rares\\AppData\\Roaming\\NuGet\\NuGet.Config",

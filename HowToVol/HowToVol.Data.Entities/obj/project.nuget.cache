@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IpoGe/fF1ofXn0s2zFcNB3SQPnPQfgpCJG3/zC2kYeT8vLABoPr6PB7HwquGU37UE6KPg3nimJg3BbsqnkE8pA==",
+  "dgSpecHash": "V2CSxCtf4IInfTZf2jljol8A/HTZEBBKOkQWsK0wpXHZNRIaEYUgW8iRsseubNAHdS35B8qKBT7eFn9Kdtvg1w==",
   "success": true,
-  "projectFilePath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVol\\HowToVol.Data.Entities\\HowToVol.Data.Entities.csproj",
+  "projectFilePath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVolBE\\HowToVol\\HowToVol.Data.Entities\\HowToVol.Data.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rares\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Rares\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",

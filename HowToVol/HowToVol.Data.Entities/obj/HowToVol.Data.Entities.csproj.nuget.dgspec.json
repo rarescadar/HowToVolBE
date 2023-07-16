@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Licenta\\HowToVolApp\\BE\\HowToVol\\HowToVol.Data.Entities\\HowToVol.Data.Entities.csproj": {}
+    "D:\\Licenta\\HowToVolApp\\BE\\HowToVolBE\\HowToVol\\HowToVol.Data.Entities\\HowToVol.Data.Entities.csproj": {}
   },
   "projects": {
-    "D:\\Licenta\\HowToVolApp\\BE\\HowToVol\\HowToVol.Data.Entities\\HowToVol.Data.Entities.csproj": {
+    "D:\\Licenta\\HowToVolApp\\BE\\HowToVolBE\\HowToVol\\HowToVol.Data.Entities\\HowToVol.Data.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Licenta\\HowToVolApp\\BE\\HowToVol\\HowToVol.Data.Entities\\HowToVol.Data.Entities.csproj",
+        "projectUniqueName": "D:\\Licenta\\HowToVolApp\\BE\\HowToVolBE\\HowToVol\\HowToVol.Data.Entities\\HowToVol.Data.Entities.csproj",
         "projectName": "HowToVol.Data.Entities",
-        "projectPath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVol\\HowToVol.Data.Entities\\HowToVol.Data.Entities.csproj",
+        "projectPath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVolBE\\HowToVol\\HowToVol.Data.Entities\\HowToVol.Data.Entities.csproj",
         "packagesPath": "C:\\Users\\Rares\\.nuget\\packages\\",
-        "outputPath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVol\\HowToVol.Data.Entities\\obj\\",
+        "outputPath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVolBE\\HowToVol\\HowToVol.Data.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rares\\AppData\\Roaming\\NuGet\\NuGet.Config",

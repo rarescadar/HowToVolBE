@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Licenta\\HowToVolApp\\BE\\HowToVol\\HowToVol.Business.Services.Contracts\\HowToVol.Business.Services.Contracts.csproj",
+      "projectUniqueName": "D:\\Licenta\\HowToVolApp\\BE\\HowToVolBE\\HowToVol\\HowToVol.Business.Services.Contracts\\HowToVol.Business.Services.Contracts.csproj",
       "projectName": "HowToVol.Business.Services.Contracts",
-      "projectPath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVol\\HowToVol.Business.Services.Contracts\\HowToVol.Business.Services.Contracts.csproj",
+      "projectPath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVolBE\\HowToVol\\HowToVol.Business.Services.Contracts\\HowToVol.Business.Services.Contracts.csproj",
       "packagesPath": "C:\\Users\\Rares\\.nuget\\packages\\",
-      "outputPath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVol\\HowToVol.Business.Services.Contracts\\obj\\",
+      "outputPath": "D:\\Licenta\\HowToVolApp\\BE\\HowToVolBE\\HowToVol\\HowToVol.Business.Services.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rares\\AppData\\Roaming\\NuGet\\NuGet.Config",
